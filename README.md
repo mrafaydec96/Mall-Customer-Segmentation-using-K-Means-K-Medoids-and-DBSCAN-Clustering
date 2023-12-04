@@ -3,6 +3,7 @@ This project analyzes different customer segments that exists in the mall data u
 
 # Dataset Description
 The dataset is about customers who visit a supermarket mall. Data recorded for the customers include variables like Customer ID, age, gender, annual income and spending score.
+Link to dataset: https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python/data
 
 # Findings: What Customer Segments were identified?
 
